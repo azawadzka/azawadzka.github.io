@@ -1,15 +1,15 @@
 title: Anna Zawadzka
 logo: "/images/logo.png?raw=true"
-description:
-<br/>
-NLP/LLM Engineer, Python/Java
-<br/>
-also dancer & language freak
-<br/><br/>
-<a href="https://medium.com/@azawadzka" style="text-decoration:none"/><img src="/images/icons/tds_sm.png" style="width: 15px"/> <img src="/images/icons/medium_sm.png" style="width: 15px"/> medium.com/@azawadzka </a><br/>
-<a href="https://www.linkedin.com/in/anna-zawadzka-48091a148/" style="text-decoration:none"/><img src="/images/icons/linkedin_sm.png" style="width: 15px; margin-left: 19px"/> linkedin.com/in/azawadzk </a><br/>
-<a href="http://github.com/azawadzka" style="text-decoration:none"/><img src="/images/icons/github_sm.png" style="width: 15px; margin-left: 19px"/> github.com/azawadzka </a><br/>
-<img src="/images/icons/pin_sm.png" style="width: 15px; margin-left: 19px"/> Gdansk/Warsaw<br/>
+description: >
+  <br/>
+  NLP/LLM Engineer, Python/Java
+  <br/>
+  also dancer & language freak
+  <br/><br/>
+  <a href="https://medium.com/@azawadzka" style="text-decoration:none"/><img src="/images/icons/tds_sm.png" style="width: 15px"/> <img src="/images/icons/medium_sm.png" style="width: 15px"/> medium.com/@azawadzka </a><br/>
+  <a href="https://www.linkedin.com/in/anna-zawadzka-48091a148/" style="text-decoration:none"/><img src="/images/icons/linkedin_sm.png" style="width: 15px; margin-left: 19px"/> linkedin.com/in/azawadzk </a><br/>
+  <a href="http://github.com/azawadzka" style="text-decoration:none"/><img src="/images/icons/github_sm.png" style="width: 15px; margin-left: 19px"/> github.com/azawadzka </a><br/>
+  <img src="/images/icons/pin_sm.png" style="width: 15px; margin-left: 19px"/> Gdansk/Warsaw<br/>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme

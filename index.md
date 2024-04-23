@@ -60,9 +60,9 @@ I enjoy working with 3D graphics. I have animated things using **Processing** an
 <br/>
 <img src="images/graphics/museum.gif" style="width:49%"/>
 <div style="width:49%; display: inline-block; vertical-align:top; text-align:left">
-:arrow_up: Here I'm waving my hand to shoo away the smoke using frame diffs
+↑ Here I'm waving my hand to shoo away the smoke using frame diffs
 <br/><br/>
-:arrow_left: Here you can move around a dark museum room using mouse clicks. Later my friends and me built a <a href="https://github.com/azawadzka/ULPGC-CIU-3D-Game">game</a> on the top of this :) 
+← Here you can move around a dark museum room using mouse clicks. Later my friends and me built a <a href="https://github.com/azawadzka/ULPGC-CIU-3D-Game">game</a> on the top of this :) 
 </div>
 </center>
 

@@ -60,9 +60,9 @@ I enjoy working with 3D graphics. I have animated things using **Processing** an
 <br/>
 <img src="images/graphics/museum.gif" style="width:49%"/>
 <div style="width:49%; display: inline-block; vertical-align:top; text-align:left">
-&#11014 Here I'm waving my hand to shoo away the smoke using frame diffs
+:arrow_up: Here I'm waving my hand to shoo away the smoke using frame diffs
 <br/><br/>
-&#11013 Here you can move around a dark museum room using mouse clicks. Later my friends and me built a <a href="https://github.com/azawadzka/ULPGC-CIU-3D-Game">game</a> on the top of this :) 
+:arrow_left: Here you can move around a dark museum room using mouse clicks. Later my friends and me built a <a href="https://github.com/azawadzka/ULPGC-CIU-3D-Game">game</a> on the top of this :) 
 </div>
 </center>
 
@@ -78,5 +78,5 @@ This is high school content, but I think this is **so cool**. Try solving the pu
 </div>
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a> | Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
